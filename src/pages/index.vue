@@ -18,7 +18,7 @@
 </template>
 
 <script setup>
-import PokemonCard from '@/components/Pokemoncard.vue'
+import PokemonCard from '@/components/PokemonCard.vue'
 
 const pokemons = ref([])
 
